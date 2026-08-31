@@ -51,6 +51,7 @@ The biggest highlight of this project is the **animated login interface**.
 
 Instead of using a traditional static login page, I designed a playful scene with custom characters and animations to make the authentication experience more engaging.
 
+
 ### What makes it special?
 
 - 🎨 Custom illustrated characters
@@ -70,7 +71,19 @@ Creating a visually interesting animated experience within **just one hour** was
 
 The application starts with a playful animated login screen featuring custom-designed characters.
 
-> Add your login screenshots here:
+<img width="1383" height="847" alt="image" src="https://github.com/user-attachments/assets/d1aab2e0-d459-48fc-b721-ffaafbffabcc" />
+
+<img width="1382" height="842" alt="image" src="https://github.com/user-attachments/assets/0e61c8e8-c6e4-4531-9a01-e605bff4b8c9" />
+
+<img width="1431" height="852" alt="image" src="https://github.com/user-attachments/assets/e328b1db-1b08-4fed-a4f8-90fe762be7b6" />
+
+### Tutor Dashboard
+
+<img width="1915" height="932" alt="image" src="https://github.com/user-attachments/assets/779fbfa2-a2d9-4baf-bc18-7221a9c43952" />
+
+<img width="1917" height="928" alt="image" src="https://github.com/user-attachments/assets/f17f509b-da2f-4c0e-85b8-d1fc7da069ca" />
+
+<img width="1917" height="927" alt="image" src="https://github.com/user-attachments/assets/c621525e-ef16-4180-bbee-52766295e904" />
 
 ```text
 assets/
