@@ -1,4 +1,4 @@
-# 🎓 TutorPortal — Classroom Suite
+# 🎓 TutorPortal — Animated Login UI
 
 > A modern and visually engaging tutor dashboard for managing student records, attendance, academic performance, and student status.
 
