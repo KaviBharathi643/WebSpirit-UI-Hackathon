@@ -41,7 +41,6 @@ The goal was to combine a professional dashboard experience with a fun and memor
 
 📹 **Watch the working project here:**
 
-[▶️ View Demo Video (Drive - original link)](https://drive.google.com/file/d/1-5ur9_yGutKnfErqe99Nn3Cbcn1ycINM/view?usp=drive_link)  
 [▶️ View Demo Video (Drive - share link)](https://drive.google.com/file/d/1-5ur9_yGutKnfErqe99Nn3Cbcn1ycINM/view?usp=sharing)
 
 ---
